@@ -1,6 +1,3 @@
-# keras 이야기 시즌1
-
-## 에피소드 1. 암호화화폐 예측하기
-
+<script src="https://gist.github.com/jacegem/992cace234a783e47212446ba751e1d0.js"></script>
 
 
